@@ -1,4 +1,4 @@
-name: NodeJs Github Actions
+name: NodeJs Github Actions Project
 
 on: push
 
